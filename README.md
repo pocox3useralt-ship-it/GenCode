@@ -13,4 +13,5 @@ The application includes several specialized modules for system testing and auto
 Security and Access
  * Authentication: Users must pass an "Access Gate" login screen to reach the dashboard.
  * Execution Environment: The code includes specific logic to handle paths and permissions (using os.chmod) within mobile terminal environments.
- * 
+
+   ![Image](https://drive.google.com/uc?export=view&id=1v_7xxtqqBeUsNtAwXWcGbyReXUd0xaPW)
