@@ -15,3 +15,18 @@ Security and Access
  * Execution Environment: The code includes specific logic to handle paths and permissions (using os.chmod) within mobile terminal environments.
 
    ![Image](https://drive.google.com/uc?export=view&id=1v_7xxtqqBeUsNtAwXWcGbyReXUd0xaPW)
+
+
+
+
+   # WARNING
+
+## EDUCATIONAL PURPOSES ONLY
+
+*This Tool is for educational purposes only.*
+
+*It is not intended for creating or spreading Virus-related content or harmful software.*
+
+*Any misuse of this Tool for malicious activity, including Virus development or distribution, is strictly discouraged.*
+
+*Use this Tool responsibly and ethically.*
